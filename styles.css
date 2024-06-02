@@ -2,3 +2,19 @@ html {
     background-color: black;
     color: white;
 }
+
+body {
+    text-align: center;
+}
+
+footer {
+    font-size: small;
+}
+
+li {
+    list-style: none;
+}
+a {
+    text-decoration: none;
+    color: goldenrod;
+}
