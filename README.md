@@ -2,10 +2,7 @@ Credits:
 
 	Website Template:
 		html5up.net
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
+  
 	Icons:
 		Font Awesome (fontawesome.io)
 
